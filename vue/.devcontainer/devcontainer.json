@@ -21,10 +21,8 @@
 				"dbaeumer.vscode-eslint",
 				"MS-CEINTL.vscode-language-pack-ja",
 				"ms-azuretools.vscode-docker",
-				"eamodio.gitlens",
 				"peakchen90.open-html-in-browser",
 				"xabikos.JavaScriptSnippets",
-				"octref.vetur",
 				"dariofuzinato.vue-peek",
 				"formulahendry.auto-rename-tag",
 				"formulahendry.auto-close-tag",
@@ -39,7 +37,10 @@
 				"mrmlnc.vscode-duplicate",
 				"xyz.local-history",
 				"alefragnani.Bookmarks",
-				"fabiospampinato.vscode-todo-plus"
+				"fabiospampinato.vscode-todo-plus",
+				"Vue.volar",
+				"wayou.vscode-todo-highlight"
+
 			]
 		}
 	},
