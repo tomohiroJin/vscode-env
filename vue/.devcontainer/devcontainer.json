@@ -19,6 +19,7 @@
 			// Add the IDs of extensions you want installed when the container is created.
 			"extensions": [
 				"dbaeumer.vscode-eslint",
+				"ryu1kn.partial-diff",
 				"MS-CEINTL.vscode-language-pack-ja",
 				"ms-azuretools.vscode-docker",
 				"peakchen90.open-html-in-browser",
@@ -26,7 +27,6 @@
 				"dariofuzinato.vue-peek",
 				"formulahendry.auto-rename-tag",
 				"formulahendry.auto-close-tag",
-				"eg2.vscode-npm-script",
 				"christian-kohler.npm-intellisense",
 				"christian-kohler.path-intellisense",
 				"esbenp.prettier-vscode",
@@ -39,7 +39,12 @@
 				"alefragnani.Bookmarks",
 				"fabiospampinato.vscode-todo-plus",
 				"Vue.volar",
-				"wayou.vscode-todo-highlight"
+				"wayou.vscode-todo-highlight",
+				"VisualStudioExptTeam.vscodeintellicode",
+				"wayou.vscode-todo-highlight",
+				"naumovs.color-highlight",
+				"Tyriar.sort-lines",
+				"ICS.japanese-proofreading"
 
 			]
 		}
