@@ -44,8 +44,14 @@
 				"wayou.vscode-todo-highlight",
 				"naumovs.color-highlight",
 				"Tyriar.sort-lines",
-				"ICS.japanese-proofreading"
-
+				"ICS.japanese-proofreading",
+				"titiaiev.vue-docs",
+				"mhutchie.git-graph",
+				"donjayamanne.githistory",
+				"eamodio.gitlens",
+				"oderwat.indent-rainbow",
+				"ionutvmi.path-autocomplete",
+				"mosapride.zenkaku"
 			]
 		}
 	},
