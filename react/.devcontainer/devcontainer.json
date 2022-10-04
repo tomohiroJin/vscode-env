@@ -43,8 +43,17 @@
 				"wayou.vscode-todo-highlight",
 				"naumovs.color-highlight",
 				"Tyriar.sort-lines",
-				"ICS.japanese-proofreading"
-
+				"ICS.japanese-proofreading",
+				"mhutchie.git-graph",
+				"eamodio.gitlens",
+				"donjayamanne.githistory",
+				"oderwat.indent-rainbow",
+				"ionutvmi.path-autocomplete",
+				"mosapride.zenkaku",
+				"ecmel.vscode-html-css",
+				"pranaygp.vscode-css-peek",
+				"styled-components.vscode-styled-components",
+				"bradlc.vscode-tailwindcss"
 			]
 		}
 	},
