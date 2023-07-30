@@ -1,0 +1,127 @@
+
+ネガティブプロンプト
+low quality, worst quality, out of focus, ugly, error, jpeg artifacts, lowers, blurry, bokeh,bad anatomy, long_neck, long_body, longbody, deformed mutated disfigured, missing arms, extra_arms, mutated hands, extra_legs, bad hands, poorly_drawn_hands, malformed_hands, missing_limb, floating_limbs, disconnected_limbs, extra_fingers, bad fingers, liquid fingers, poorly drawn fingers, missing fingers, extra digit, fewer digits, ugly face, deformed eyes, partial face, partial head, bad face, inaccurate limb, cropped
+
+lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts,signature, watermark, username, blurry, artist name, multiple legs, malformation,
+
+(low quality, worst quality:1.4), (bad_prompt_v2:0.8),
+
+
+プロンプト
+((((masterpiece)))), high quality, very_high_resolution, large_filesize, full color, Unreal Engine, Realistic, photorealistic, 4k, 8k, 16k, cinematic, wide shot, sharp focus, realistic shaded
+
+octane render, unreal engine, photograph, realistic skin texture, photorealistic, hyper realism, highly detailed, 85mm portrait photography, award winning, hard rim lighting photography--beta --ar 9:16  --s 5000 --testp --upbeta --upbeta --upbeta
+
+
+サンプルプロンプト
+gorgeous young Swiss girl sitting by window with headphones on, wearing white bra with translucent shirt over, soft lips, beach blonde hair, octane render, unreal engine, photograph, realistic skin texture, photorealistic, hyper realism, highly detailed, 85mm portrait photography, award winning, hard rim lighting photography--beta --ar 9:16  --s 5000 --testp --upbeta --upbeta --upbeta
+
+
+史郎正宗
+Young woman holding a gun, (beautiful woman), ((Masamune Shirow's work)), GHOST IN THE SHELL,  cyber world,  SF,
+
+tom
+ Tom tricks his friends into painting a fence for him by pretending that it's a fun and enjoyable activity, mischievous, blue eyes, tousled hair, boyish, freckles, tan, straw hat, patched clothes, barefoot, young boy
+
+ game center
+ Vintage 90's anime style environmental wide shot of a chaotic arcade at night; a woman wearing streetwear playing an arcade game; by Hajime Sorayama, Greg Tocchini, Virgil Finlay, sci-fi. line art. Environmental arcade art.
+
+ サラマンダー
+ ((((The salamander)))), its entire body engulfed in flames, opened its large mouth and spat flames straight out, In front of the castle gate, ((((be engulfed in flames)))), ((((full body)))), small eyesm,  slender build,  Clawed limbs, Tails of Fire, sharp scales, (((mouth of fire)))
+
+ blood
+ High school girl with Japanese sword with blood on it, Japanese high school girl, (black sailor suit), ((braided black hair)), old school classroom, beautiful woman, white socks, black loafers, MURAMASA, a demon sword
+ 
+ 起動するのに停止する必要がある
+ Delivery Optimization
+
+ 仁王
+ A Japanese samurai wearing armor and holding a large sword in a high position, standing with the setting sun at their back, cool guy,  topknot, octane render, unreal engine, photograph, realistic skin texture, photorealistic, hyper realism, highly detailed, 85mm portrait photography, award winning, hard rim lighting photography, ((steampunk)), ((body of a machine))
+
+
+A young and beautiful woman sitting in a dark room, facing her laptop and holding her head with a troubled expression, 
+high quality, photo,  Jacket, blouse,  Platinum blonde hair, Short hair,  emerald green eyes, Swiss, rule of thirds, Messy hair, 
+
+主題
+woman programming on a laptop
+
+クオリティ
+high quality, photo,
+
+人
+young and beautiful woman, 
+japanese,
+Swiss,
+
+服装
+Jacket, blouse,
+
+デザイン
+rule of thirds
+laws of perspective
+
+髪型
+Platinum blonde hair, Short hair,
+Neatly styled hair,
+Messy hair,
+
+部屋
+dimly lit room
+bright room
+
+目の色
+emerald green eyes
+
+表情
+despairing face
+troubled face
+disappointed face
+sad face
+
+happy face
+joyful face
+smiling face
+impressed face
+
+
+woman programming on a laptop, dimly lit room, high quality, photo, young and beautiful woman, japanese, emerald green eyes, Platinum blonde hair, Short hair, Messy hair, Jacket, blouse, despairing face, troubled face, disappointed face, sad face, laws of perspective
+
+low quality, worst quality, out of focus, ugly, error, jpeg artifacts, lowers, blurry, bokeh,bad anatomy, long_neck, long_body, longbody, deformed mutated disfigured, missing arms, extra_arms, mutated hands, extra_legs, bad hands, poorly_drawn_hands, malformed_hands, missing_limb, floating_limbs, disconnected_limbs, extra_fingers, bad fingers, liquid fingers, poorly drawn fingers, missing fingers, extra digit, fewer digits, ugly face, deformed eyes, partial face, partial head, bad face, inaccurate limb, cropped, lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts,signature, watermark, username, blurry, artist name, multiple legs, malformation,
+
+woman programming on a laptop, dark room, high quality, photo, young and beautiful woman, japanese, Short hair, Messy hair, Jacket, blouse, despairing face, troubled face, disappointed face, sad face, laws of perspective, Alone,
+
+woman programming on a laptop, bright room., high quality, photo, young and beautiful woman, japanese, Short hair, Neatly styled hair, Jacket, blouse, happy face, joyful face, smiling face, impressed face, rule of thirds, Alone,
+
+happy face, joyful face, smiling face, impressed face,
+
+
+woman programming on a laptop, high quality, photo, young and beautiful woman, Messy hair, Jacket, blouse,  happy face, joyful face, smiling face, impressed face, laws of perspective, Alone,
+
+
+8k, octane render, unreal engine, photograph, realistic skin texture, photorealistic, hyper realism, highly detailed, 85mm portrait photography, award winning, hard rim lighting photography--beta --ar 9:16  --s 5000
+
+
+A cute adorable baby owl made of crystal ball with low poly eye's highly detailed intricated concept art trending artstation 8k
+
+段ボール: 
+  女性が1人: 1girl
+  単独: solo
+  高解像度: highres
+  長い髪: long_hair
+  作者コメント: commentary_request
+  胸が大きな: breasts
+  直接視線: looking_at_viewer
+  ほっぺた赤: blush
+  笑っている: smile
+  口開け open_mouth
+  短い髪: short_hair
+  青い瞳: blue_eyes
+  女性が複数: multiple_girls
+  スカート: skirt
+  金髪: blonde_hair
+  簡素な背景: simple_background	
+  胸が特に大きな: large_breasts
+  茶髪: brown_hair
+  シャツ: shirt
+  黒髪: black_hair
+
